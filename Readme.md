@@ -1,8 +1,4 @@
-Here’s a `README.md` template for a basic CRUD application to manage **Products** and **Customers** using Java (Spring Boot).
-
----
-
-# CRUD Application for Product and Customer Management
+## CRUD Application for Product and Customer Management
 
 This is a simple Java-based CRUD application for managing **Products** and **Customers**. The application provides REST APIs using Spring Boot and can be connected to a relational database (e.g., H2, MySQL). The project demonstrates how to perform Create, Read, Update, and Delete operations on two entities: **Product** and **Customer**.
 
